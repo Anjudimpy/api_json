@@ -3,7 +3,7 @@
   "product":[
     {
         "id": 1,
-        "title": "Fjallraven",
+        "title": "Anti-spatter Gel",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
@@ -15,11 +15,11 @@
     },
     {
         "id": 2,
-        "title": "Fjallraven",
+        "title": "Corrogard Wax Spray",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "/ameee/L00-L00Nylon-Features.png",
+        "image": "/ameee/corrogard-wax.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -27,11 +27,11 @@
     },
     {
         "id": 3,
-        "title": "Fjallraven",
+        "title": "Magnaflux",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "/ameee/helmet1.jpg",
+        "image": "/ameee/cal4.jpeg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -39,11 +39,11 @@
     },
     {
         "id": 4,
-        "title": "Fjallrave",
+        "title": "Calibration Blocks",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "/ameee/helmet.jpg",
+        "image": "/ameee/Calibration-Blocks.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -63,11 +63,11 @@
     },
     {
         "id": 6,
-        "title": "Fjallraven",
+        "title": "Corrogard 6 in 1",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "/ameee/helmet.jpg",
+        "image": "/ameee/corrogard-6.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -75,11 +75,11 @@
     },
     {
         "id": 7,
-        "title": "Fjallraven ",
+        "title": "Contact & Component Cleaner Spray",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "/ameee/helmet.jpg",
+        "image": "/ameee/contact.png",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -87,11 +87,11 @@
     },
     {
         "id": 8,
-        "title": "Fjallraven ",
+        "title": "Clear Coat Spray ",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "/ameee/helmet.jpg",
+        "image": "/ameee/Clear-Coat.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -99,11 +99,11 @@
     },
     {
         "id": 9,
-        "title": "Fjallraven",
+        "title": "Cleaner & Degreaser Spray",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "/ameee/helmet.jpg",
+        "image": "/ameee/CleanerSpray.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -111,11 +111,11 @@
     },
     {
         "id": 10,
-        "title": "Fjallraven",
+        "title": "Dye Penetrant Test Spray",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "/ameee/helmet.jpg",
+        "image": "/ameee/cleaner.png",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -123,11 +123,11 @@
     },
     {
         "id": 11,
-        "title": "Fjallraven",
+        "title": "Chain Oil Spray",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "/ameee/helmet.jpg",
+        "image": "/ameee/Chain-Oil.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
@@ -135,11 +135,11 @@
     },
     {
         "id": 12,
-        "title": "Fjallraven",
+        "title": "Calibration Tubes",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "/ameee/helmet.jpg",
+        "image": "/ameee/Calibration-Tubes.jpg",
         "rating": {
             "rate": 3.9,
             "count": 120
